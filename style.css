@@ -1,0 +1,11 @@
+.adminView {
+    background-color: #ffe0e0;
+}
+
+.userView {
+    background-color: #e0f7ff;
+}
+
+.hidden {
+    display: none;
+}
